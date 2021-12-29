@@ -13,7 +13,7 @@ export default function EventItem({ evt }) {
               : "/images/event-defalut.png"
           }
           height={170}
-          width={100}
+          width={200}
           alt="DJ"
         />
       </div>
