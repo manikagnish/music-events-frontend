@@ -26,22 +26,22 @@ export default function LoginPage() {
           <div>
             <label htmlFor="email">Email Address</label>
             <input
-              type="text"
+              type="email"
               id="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
-
+          </div>
+          <div>
             <label htmlFor="password">Password </label>
             <input
-              type="text"
+              type="password"
               id="password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
             />
-
-            <input type="submit" value="Login" className="btn" />
           </div>
+          <input type="submit" value="Login" className="btn" />
         </form>
 
         <p>
