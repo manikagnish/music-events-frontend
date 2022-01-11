@@ -12,6 +12,11 @@ body {
   line-height: 1.8;
 }
 
+body {
+  background-color: #111;
+  color: #eee;
+}
+
 a {
   text-decoration: none;
   color: steelblue;
@@ -27,7 +32,7 @@ h1 {
 
 .btn {
   display: inline-block;
-  background: red;
+  background: #3f3fff !important;
   color: #fff;
   padding: 10px 20px;
   cursor: pointer;

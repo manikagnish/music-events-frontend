@@ -4,7 +4,7 @@ export default function Showcase() {
   return (
     <div className={styles.showcase}>
       <h1>Welcome to the Party!</h1>
-      <h2>Find the hottest DJ Events</h2>
+      <h2>Find the hottest Music Events</h2>
     </div>
   );
 }

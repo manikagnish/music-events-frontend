@@ -1,5 +1,6 @@
 .modal {
-  background: white;
+  background: #eef;
+  color: #333;
   width: 500px;
   height: 600px;
   border-radius: 15px;
