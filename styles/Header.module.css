@@ -6,7 +6,6 @@
   color: #ccc;
   height: 60px;
   padding: 0 30px;
-  /* box-shadow: 0 2px 5px rgba(63, 63, 63, 0.1); */
 }
 
 .header a {
@@ -33,7 +32,6 @@
 
 .logo a {
   color: #3f3fff;
-  font-weight: bold;
   letter-spacing: 1.5px;
 }
 
